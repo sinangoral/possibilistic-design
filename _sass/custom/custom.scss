@@ -1,3 +1,12 @@
-  .site-footer {
+.site-footer {
     display: none;
-  }
+}
+
+.site-title {
+    adding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 14px !important;
+}
