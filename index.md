@@ -3,7 +3,7 @@ title: About
 nav_order: 1
 layout: home
 ---
-
+<base target="_blank">
 # Overview
 
 ---
