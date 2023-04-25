@@ -4,5 +4,18 @@ theme: just-the-docs
 
 url: https://sinangoral.github.io/possibilistic-design/
 
+# CTA in top right corner
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View in GitHub ↗: https://github.com/sinangoral/possibilistic-design
+
+# External navigation links
+nav_external_links:
+  - title: Syllabus ↗
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    
+ nav_external_links:
+  - title: Schedule ↗
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+
