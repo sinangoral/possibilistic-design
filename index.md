@@ -3,18 +3,6 @@ title: About
 layout: home
 ---
 
-# Introduction
-
----
-
-Design often favors probability.
-
-But rather than just problem solving, design should exploit curiosity, creativity, and criticality. A venture into the what if is arguably more relevant and promising than an investigation of what should be.
-
-Possibilistic Design is a project-based design seminar that concentrates on how critical design theory and powerful storytelling might pave the way for a more responsible, equitable, and exciting future. By investigating what speculative designers such as Anthony Dunne and Fiona Raby call the possibilities of things, we will consider design as a tool to unearth how the world could be, or even how it could’ve been.
-
-Students will research multimedia sensing to conceptualize on alternative ways of observing, measuring, and quantifying the spaces around us. We will question why certain experiences make us feel a certain way, what role our senses play in perception, and how we can implement speculative design, conceptualism, and counterfactualism to powerfully reframe an experience. Several short projects will ask students to push the capacities of sight, touch, hearing, smell, taste, and other interstitial senses. The final term project will be to design, render, and prototype a large scale multisensory tool, wearable, or site-specific installation that augments the ambience of a space or experience.
-
 # Logistics
 
 ---
@@ -25,3 +13,15 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 | Location                 | [Physical Computing Lab (HL A10)](https://goo.gl/maps/w7RohwDqXdxzamZN8)<br> Carnegie Mellon University
 | Instructor               | Sinan Goral<br> sgoral@cmu.edu<br> (763) 656-8124
 | Office Hours             | We will meet for office hours in HL A10 on an as-needed basis. Please email me to schedule off hours.
+
+# Overview
+
+---
+
+Design often favors probability.
+
+But rather than just problem solving, design should exploit curiosity, creativity, and criticality. A venture into the *what if* is arguably more relevant and promising than an investigation of *what should be.*
+
+Possibilistic Design is a project-based design seminar that concentrates on how critical design theory and powerful storytelling might pave the way for a more responsible, equitable, and exciting future. By investigating what speculative designers such as Anthony Dunne and Fiona Raby call "the possibilities of things," we will consider design as a tool to unearth how the world *could be,* or even how it *could’ve been.*
+
+Students will research multimedia sensing to conceptualize on alternative ways of observing, measuring, and quantifying the spaces around us. We will question why certain experiences make us feel a certain way, what role our senses play in perception, and how we can implement speculative design, conceptualism, and counterfactualism to powerfully reframe an experience. Several short projects will ask students to push the capacities of sight, touch, hearing, smell, taste, and other interstitial senses. The final term project will be to design, render, and prototype a large scale multisensory tool, wearable, or site-specific installation that augments the ambience of a space or experience.
