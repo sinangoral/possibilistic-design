@@ -20,7 +20,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 ---
 
 #### Possibilistic Design
-POSSIBILISTIC DESIGN<br> Carnegie Mellon University<br> Integrative Design, Arts, and Technology (IDeATe)
+POSSIBILISTIC DESIGN<br> Integrative Design, Arts, and Technology (IDeATe)<br> Carnegie Mellon University
 
 | Course                   | 48-734 • Possibilistic Design<br> Fall 2022<br> 9.0 Credits
 | Links                    | <span class="fs-3">[Schedule](http://example.com/){: .btn }</span>  <span class="fs-3">[Reading Groups](http://example.com/){: .btn }</span>  <span class="fs-3">[Project Groups](http://example.com/){: .btn }</span>
