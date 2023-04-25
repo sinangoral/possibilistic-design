@@ -25,7 +25,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 | Location                 | [Physical Computing Lab (HL A10)](https://goo.gl/maps/w7RohwDqXdxzamZN8)<br> Carnegie Mellon University
 | Instructor               | Sinan Goral<br> sgoral@cmu.edu<br> (763) 656-8124
 
-{: .note-title }
+{: .highlight-title }
 > Office Hours
 >
 > We will meet for office hours in HL A10 on an as-needed basis. If you'd like to chat -- whether it's about work for this course, other research, or a separate topic altogether -- please email me and I would be happy to set up a time.
