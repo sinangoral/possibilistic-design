@@ -19,12 +19,11 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 
 ---
 
-#### Possibilistic Design
-POSSIBILISTIC DESIGN<br> Integrative Design, Arts, and Technology (IDeATe)<br> Carnegie Mellon University
+Some introductory sentence can go here
 
-| Course                   | 48-734 • Possibilistic Design<br> Fall 2022<br> 9.0 Credits
-| Links                    | <span class="fs-3">[Schedule](http://example.com/){: .btn }</span>  <span class="fs-3">[Reading Groups](http://example.com/){: .btn }</span>  <span class="fs-3">[Project Groups](http://example.com/){: .btn }</span>
-| Schedule                 | Tuesdays & Thursdays<br> 7:00p-8:20p EST
-| Location                 | Physical Computing Lab (HL A10)
+| Course                   | 48-734<br> Possibilistic Design<br> Fall 2022<br> 9.0 Credits
+| Quick Links              | <span class="fs-3">[Schedule](http://example.com/){: .btn }</span>  <span class="fs-3">[Reading Groups](http://example.com/){: .btn }</span>  <span class="fs-3">[Project Groups](http://example.com/){: .btn }</span>
+| Schedule                 | Tuesdays, Thursdays<br> 7:00p-8:20p EST
+| Location                 | Physical Computing Lab (HL A10)[Physical Computing Lab (HL A10)](https://goo.gl/maps/w7RohwDqXdxzamZN8)<br> Carnegie Mellon University
 | Instructor               | Sinan Goral<br> sgoral@cmu.edu<br> (763) 656-8124
 | Office Hours             | We will meet for office hours in HL A10 on an as-needed basis. Please email me to schedule off hours.
