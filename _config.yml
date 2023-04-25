@@ -4,9 +4,11 @@ theme: just-the-docs
 
 url: https://sinangoral.github.io/possibilistic-design/
 
-# CTA in top right corner
+# Aux links for the upper right navigation
 aux_links:
-  View in GitHub ↗: https://github.com/sinangoral/possibilistic-design
+  "View in GitHub ↗":
+    - "//github.com/sinangoral/possibilistic-design"
+
 
 # External navigation links
 nav_external_links:
