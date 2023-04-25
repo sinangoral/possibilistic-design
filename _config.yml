@@ -15,11 +15,12 @@ aux_links_new_tab: true
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
 
+nav_links_new_tab: true
+
 nav_external_links:
   - title: Syllabus
     url: https://github.com/just-the-docs/just-the-docs
     nav_order: 2
-    target: _blank
     hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: Schedule
     url: https://github.com/just-the-docs/just-the-docs
