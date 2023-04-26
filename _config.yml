@@ -6,7 +6,7 @@ url: https://sinangoral.github.io/possibilistic-design/
 
 # Aux links for the upper right navigation
 aux_links:
-  - "View in GitHub ↗":
+  "View in GitHub ↗":
     - "//github.com/sinangoral/possibilistic-design"
     
 # Makes Aux links open in a new tab. Default is false
