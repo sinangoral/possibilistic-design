@@ -21,3 +21,10 @@
     outline: none;
     box-shadow: none !important;
 }
+
+/* Disables the click states for all buttons */ 
+.btn:active, .btn.selected, .btn.zeroclipboard-is-active {
+    background-color: #f7f7f7 !important;
+    background-image: none;
+    box-shadow: none !important;
+}
