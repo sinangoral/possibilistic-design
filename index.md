@@ -30,3 +30,5 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 > Office Hours
 >
 > We will meet for office hours in HL A10 on an as-needed basis. If you'd like to chat about work for this course, separate research, or another topic altogether, please email me and I would be happy to set up a time.
+
+{{< hp5 "https://elearnvietnamese.h5p.com/content/1290436679514644339/embed" >}}
