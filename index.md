@@ -30,10 +30,3 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 > Office Hours
 >
 > We will meet for office hours in HL A10 on an as-needed basis. If you'd like to chat about work for this course, separate research, or another topic altogether, please email me and I would be happy to set up a time.
-
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="adOKqM" data-user="jemware" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/jemware/pen/adOKqM">
-  Animated Voronoi Cells</a> by jemware (<a href="https://codepen.io/jemware">@jemware</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
