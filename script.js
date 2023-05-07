@@ -1,89 +1,41 @@
-var context;
-var radius = 10;
-var numPoints = 12;
-var points = [];
-var width;
-var height;
+// Some random colors
+const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
 
-function Point(){
+const numBalls = 50;
+const balls = [];
 
-    // random x and y
-    this.x = Math.floor(Math.random()*(width));
-    this.y = Math.floor(Math.random()*(height));
- 
-    // random direction, +1 or -1
-    this.dx = Math.floor(Math.random()*2) * 2 - 1;
-    this.dy = Math.floor(Math.random()*2) * 2 - 1;
- 
-}
- 
-function resizeCanvas() {
-    width = window.innerWidth;
-    height = window.innerHeight;
-
-    canvas.width = width;
-    canvas.height = height;
-}
-
-function init()
-{
-  context= canvas.getContext('2d');
-  resizeCanvas();
-
-  // create an array of balls
-  for(i= 0 ; i < numPoints ; i++){
-    points.push(new Point());
-  }
-
-  setInterval(draw, 10);
-}
-
-function drawTriangs() {
+for (let i = 0; i < numBalls; i++) {
+  let ball = document.createElement("div");
+  ball.classList.add("ball");
+  ball.style.background = colors[Math.floor(Math.random() * colors.length)];
+  ball.style.left = `${Math.floor(Math.random() * 100)}vw`;
+  ball.style.top = `${Math.floor(Math.random() * 100)}vh`;
+  ball.style.transform = `scale(${Math.random()})`;
+  ball.style.width = `${Math.random()}em`;
+  ball.style.height = ball.style.width;
   
-    for (i = 0; i < numPoints; i++) {
-        var point = points[i];
+  balls.push(ball);
+  document.body.append(ball);
+}
 
-        if( point.x<0 || point.x>width) point.dx=-point.dx; 
-        if( point.y<0 || point.y>height) point.dy=-point.dy; 
+// Keyframes
+balls.forEach((el, i, ra) => {
+  let to = {
+    x: Math.random() * (i % 2 === 0 ? -11 : 11),
+    y: Math.random() * 12
+  };
 
-        point.x+=point.dx;
-        point.y+=point.dy;
+  let anim = el.animate(
+    [
+      { transform: "translate(0, 0)" },
+      { transform: `translate(${to.x}rem, ${to.y}rem)` }
+    ],
+    {
+      duration: (Math.random() + 1) * 2000, // random duration
+      direction: "alternate",
+      fill: "both",
+      iterations: Infinity,
+      easing: "ease-in-out"
     }
-  
-  var vertices = points.map(function(d) {
-    return [d.x, d.y];
-  });
-  
-  var voronoi = d3.geom.voronoi(vertices);
-  
-  for (i = 0; i < voronoi.length; i++) {
-    
-    var poly = voronoi[i];
-    
-    context.beginPath();
-    context.strokeStyle="#fff";
-
-    context.moveTo(poly[0][0],poly[0][1]);
-    
-    for (j = 1; j < poly.length; j++) {
-      context.lineTo(poly[j][0],poly[j][1]);
-    }
-    
-    context.closePath();
-    context.stroke();
-  }
-  
-}
-
-
-function draw()
-{
-    context.clearRect(0,0, width,height);
-    drawTriangs();
-}
-
-document.addEventListener('DOMContentLoaded', init);
-
-
- // resize the canvas to fill browser window dynamically
-window.addEventListener('resize', resizeCanvas, false);
+  );
+});
