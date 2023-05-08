@@ -35,20 +35,7 @@
 
 
 
-
 @import "compass"
-
-body
-  overflow-x: hidden
-  background-image: linear-gradient(120deg, rgba(#e0c3fc,0.75) 0%, rgba(#8ec5fc,0.75) 100%)
-  margin: 0
-  padding: 0
-  height: 100vh
-  overflow: hidden
-  filter: url('#goo')
-  
-  @-moz-document url-prefix()
-    filter: none
 
 .particle 
   position: absolute
