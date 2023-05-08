@@ -1,0 +1,12 @@
+%svg{:version => "1.1", :xmlns => "http://www.w3.org/2000/svg"}
+  %defs
+    %filter#goo
+      %fegaussianblur{:in => "SourceGraphic", :result => "blur", :stddeviation => "10"}
+      %fecolormatrix{:in => "blur", :mode => "matrix", :result => "goo", :values => "1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7"}
+      %feblend{:in => "SourceGraphic", :in2 => "goo"}
+      
+- (1..200).each do |i|
+  %span.particle
+  
+  
+  
