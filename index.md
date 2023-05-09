@@ -44,3 +44,12 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 </svg>
 
 <span class='particle'></span>
+
+<style>
+.particle {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  }
+</style>
