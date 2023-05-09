@@ -31,20 +31,8 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 >
 > We will meet for office hours in HL A10 on an as-needed basis. If you'd like to chat about work for this course, separate research, or another topic altogether, please email me and I would be happy to set up a time.
 
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - SASS only - Random particles animation</title>
-  <link rel="stylesheet" href="./style.css">
 
-  
-  
-  
-  
-  
-  
-  
+
   
 
 <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
