@@ -46,9 +46,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
   
   
   
-</head>
-<body>
-<!-- partial:index.partial.html -->
+
 <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
   <defs>
     <filter id='goo'>
@@ -258,8 +256,3 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 <span class='particle'></span>
 <span class='particle'></span>
 <span class='particle'></span>
-<!-- partial -->
-  <script  src="./script.js"></script>
-
-</body>
-</html>
