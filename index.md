@@ -45,7 +45,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 
 <span class='particle'></span>
 
-<style>
+<style class='particle'>
 .particle {
   background-color: red;
   width: 20px;
