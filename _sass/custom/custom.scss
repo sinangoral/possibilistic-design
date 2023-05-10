@@ -1,6 +1,7 @@
-.main-content-wrap {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+.side-bar {
+    width: calc((100% - 1064px) / 2 + 264px);
+    min-width: 264px;
+    height: 100vh;
 }
 
 .main-header {
