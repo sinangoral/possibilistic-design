@@ -1,12 +1,7 @@
-.side-bar {
-    width: calc((100% - 1064px) / 2 + 264px);
-    min-width: 264px;
-    height: 100vh !important;
-}
 
 .main-header {
     z-index: 9999 !important;
-    position: inherit !important;
+    /*position: inherit !important;*/
 }
 
 .site-header {
