@@ -1,7 +1,7 @@
 .side-bar {
     width: calc((100% - 1064px) / 2 + 264px);
     min-width: 264px;
-    height: 100vh;
+    height: 100vh !important;
 }
 
 .main-header {
@@ -59,9 +59,10 @@ body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
+  
   /*background-image: linear-gradient(120deg, rgba(224, 195, 252, 0.75) 0%, rgba(142, 197, 252, 0.75) 100%); */
-
-  overflow: hidden;
+  /*overflow: hidden;*/
+    
   filter: url("#goo");
 }
 
