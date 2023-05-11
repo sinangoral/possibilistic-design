@@ -64,13 +64,16 @@ a {
 
 
 
-
+body {
+  overflow-x: hidden
+}
 
 
 .main-content-wrap {
    filter: url(#goo);
     min-height: 93.5vh;
     overflow: clip;
+    overflow-x: hidden
 }
 
 @-moz-document url-prefix() {
