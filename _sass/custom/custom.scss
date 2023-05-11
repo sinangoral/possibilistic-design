@@ -69,7 +69,7 @@ a {
 
 .main-content-wrap {
   filter: url(#goo);
-  height: 100vh;
+  min-height: 65vh;
 }
 
 @-moz-document url-prefix() {
