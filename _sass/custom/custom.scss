@@ -33,21 +33,41 @@
 
 
 
-.aux-nav {
-    background-color: white;
+
+
+
+
+
+
+
+.main-header {
+    z-index: 9999 !important;
+    /*position: inherit !important;*/
+}
+
+.site-header {
+    background-color: #f5f6fa;
+}
+
+.site-nav, .site-header, .site-footer {
+    z-index: 999 !important;
+    background-color: #f5f6fa;
+}
+
+a {
     z-index: 999 !important;
 }
 
-.search {
-    background-color: white;
-}
 
 
 
 
 
-body {
-  /*filter: url("#goo");*/
+
+
+
+.main-content-wrap {
+  filter: url(#goo);
 }
 
 @-moz-document url-prefix() {
