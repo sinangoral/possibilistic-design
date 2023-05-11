@@ -30,7 +30,10 @@
     box-shadow: none !important;
 }
 
-
+.nav-list .nav-list-item .nav-list-link.active:BEFORE {
+    content: '◯';
+    margin-right: 5px;
+}
 
 .aux-nav {
     background-color: white;
