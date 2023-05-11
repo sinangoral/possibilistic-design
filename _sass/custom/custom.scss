@@ -69,7 +69,8 @@ a {
 
 .main-content-wrap {
   filter: url(#goo);
-  min-height: 65vh;
+  min-height: 70vh;
+  max-height: 70vh;
 }
 
 @-moz-document url-prefix() {
