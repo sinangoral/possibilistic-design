@@ -32,8 +32,6 @@
 
 
 
-
-
 .aux-nav {
     background-color: white;
     z-index: 999 !important;
@@ -42,13 +40,6 @@
 .search {
     background-color: white;
 }
-
-
-
-
-
-
-
 
 .main-header {
     z-index: 9999 !important;
@@ -78,6 +69,7 @@ a {
 
 .main-content-wrap {
   filter: url(#goo);
+  height: 100vh;
 }
 
 @-moz-document url-prefix() {
