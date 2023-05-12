@@ -46,3 +46,11 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+      
+      
+    <script>
+        function NewTab() {
+            window.open(
+            "https://github.com/just-the-docs/just-the-docs", "_blank");
+        }
+    </script>
