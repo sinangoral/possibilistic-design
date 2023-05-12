@@ -30,11 +30,3 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 > Office Hours
 >
 > We will meet for office hours in HL A10 on an as-needed basis. If you'd like to chat about work for this course, separate research, or another topic altogether, please email me and I would be happy to set up a time.
-
-
-    <script>
-        function NewTab() {
-            window.open(
-            "[https://github.com/just-the-docs/just-the-docs](http://example.com/)", "_blank");
-        }
-    </script>
