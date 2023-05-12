@@ -46,3 +46,12 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+      
+defaults:
+  - scope:
+      path: ""
+      type: "markdown"
+    values:
+      external_links:
+        target: "_blank"
+        rel: "noopener"
