@@ -1,6 +1,9 @@
 ---
 nav_order: 1
 layout: home
+---
+
+---
 hide:
   - footer
 ---
