@@ -4,17 +4,8 @@ name: ""
 nav_order: 1
 ---
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
 
-    hide_footer_style = """
-    <style>
-    .reportview-container .main footer {visibility: hidden;}    
-    """
-    st.markdown(hide_footer_style, unsafe_allow_html=True)
+<style> footer {display: none} </style>
 
 <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
   <defs>
