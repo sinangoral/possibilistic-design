@@ -1,9 +1,3 @@
-header = '''\
----
-hide:
-  - footer
-  - navigation
----'''
 
 ---
 nav_order: 1
