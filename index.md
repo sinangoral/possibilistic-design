@@ -3,6 +3,12 @@ layout: home
 nav_order: 1
 ---
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
   <defs>
     <filter id='goo'>
