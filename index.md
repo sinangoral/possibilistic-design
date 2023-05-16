@@ -1,7 +1,12 @@
+header = '''\
 ---
-nav_order: 1
 hide:
   - footer
+  - navigation
+---'''
+
+---
+nav_order: 1
 layout: home
 ---
 
