@@ -4,9 +4,8 @@ name: ""
 nav_order: 1
 ---
 
-
 <style> footer {display: none} </style>
-<style> p {display: none} </style>
+<style> hr {display: none} </style>
 
 <svg version='1.1' xmlns='http://www.w3.org/2000/svg'>
   <defs>
