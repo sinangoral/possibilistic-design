@@ -17,7 +17,7 @@ color_scheme: nil
 # External links in nav area
 nav_external_links:
   - title: Syllabus ↗
-    url: https://www.google.com/
+    url: https://www.google.com/"target="_blank
     nav_order: 2
     hide_icon: true # set to true to hide the external link icon - defaults to false
   - title: Schedule ↗
