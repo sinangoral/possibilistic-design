@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://sinangoral.github.io/possibilistic-design/
 
 plugins:
+
   - jekyll-target-blank
   
 # Aux links for the upper right navigation
