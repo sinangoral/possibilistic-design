@@ -20,7 +20,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 
 ---
 
-| Course                   | 48-734<br> Possibilistic Design<br> Fall 2022<br> 9.0 Credits
+| Course                   | 48-734 • Possibilistic Design<br> Fall 2023<br> 9.0 Credits
 | Quick Links              | <span class="fs-3">[Schedule](http://example.com/){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Reading Groups](http://example.com/){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Project Groups](http://example.com/){: .btn target="_blank" }</span>
 | Schedule                 | Tuesdays, Thursdays<br> 7:00p-8:20p EST
 | Location                 | [Physical Computing Lab (HL A10) ↗](https://goo.gl/maps/w7RohwDqXdxzamZN8){: a target="_blank"} <br> Carnegie Mellon University
