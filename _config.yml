@@ -12,7 +12,9 @@ aux_links:
 # Makes Aux links open in a new tab
 aux_links_new_tab: true
 
-color_scheme: nil
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 
 # External links in nav area
 nav_external_links:
