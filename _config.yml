@@ -49,11 +49,10 @@ kramdown:
       
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: |+
+footer_content:
   <a href="https://www.sinangoral.com/">Sinan Goral</a> <br>
   Carnegie Mellon University <br>
   Integrative Design, Arts, and Technology <a href="https://ideate.cmu.edu/index.html">(IDeATe)</a> <br>
   <br>
-  All rights reserved. Copyright &copy; 2020-2023 <br>
-  <br>
-  48-734 | Possibilistic Design | Fall 2023
+  48-734 • Possibilistic Design • Fall 2023 <br>
+  All rights reserved. Copyright &copy; 2023
