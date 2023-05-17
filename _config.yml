@@ -51,13 +51,10 @@ kramdown:
 # appears at the bottom of every page's main content
 footer_content: |+
   Carnegie Mellon University <br>
-  Integrative Design, Arts, and Technology <a href=\"https://ideate.cmu.edu/index.html">(IDeATe)</a>"
-  \
-  <a href=\"https://www.sinangoral.com/">Sinan Goral</a>" All rights reserved. Copyright &copy; 2020-2023
-
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+  Integrative Design, Arts, and Technology [IDeATe](https://ideate.cmu.edu/index.html) <br>
+  [Sinan Goral](https://www.sinangoral.com/) <br>
+  <br>
+  All rights reserved. Copyright &copy; 2020-2023
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
