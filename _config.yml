@@ -50,9 +50,9 @@ kramdown:
 # Footer content
 # appears at the bottom of every page's main content
 footer_content: |+
-  Carnegie Mellon University
+  Carnegie Mellon University <br>
   Integrative Design, Arts, and Technology <a href=\"https://ideate.cmu.edu/index.html">(IDeATe)</a>"
-  
+  \
   <a href=\"https://www.sinangoral.com/">Sinan Goral</a>" All rights reserved. Copyright &copy; 2020-2023
 
 # Footer last edited timestamp
