@@ -51,6 +51,10 @@ kramdown:
       
 # Footer, which appears on all pages except for the home page with the animation
 footer_content:
+  48-734 <br>
+  Possibilistic Design <br>
+  Fall 2023 <br>
+  <br>
   <a href="https://www.sinangoral.com/" target="_blank">Sinan Goral ↗</a> <br>
   Carnegie Mellon University <br>
   Integrative Design, Arts, and Technology <a href="https://ideate.cmu.edu/index.html" target="_blank">(IDeATe ↗)</a> <br>
