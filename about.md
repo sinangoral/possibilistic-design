@@ -18,7 +18,7 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 
 <br>
 
-#### Key Terms and Themes
+#### Key Terms, Themes, and Focus Areas
 
 Critical Design
 {: .label .label-blue }
@@ -34,13 +34,23 @@ Counterfactualism
 
 Storytelling
 {: .label .label-blue }
-Analog and Digital Sensing
+
+Documentation
+{: .label .label-blue }
+
+Analog & Digital Sensing
 {: .label .label-blue }
 
 Computation
 {: .label .label-blue }
 
-Rapid Prototyping
+Digital Fabrication
+{: .label .label-blue }
+
+Lo-Fi & Hi-Fi Prototyping
+{: .label .label-blue }
+
+Electronics
 {: .label .label-blue }
 
 <br>
@@ -50,16 +60,13 @@ Rapid Prototyping
 Rhinoceros
 {: .label .label-yellow }
 
-V-Ray
-{: .label .label-yellow }
-
 Grasshopper
 {: .label .label-yellow }
 
 TouchDesigner
 {: .label .label-yellow }
 
-InVision
+InVision Studio
 {: .label .label-yellow }
 
 Figma
