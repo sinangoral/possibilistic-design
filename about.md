@@ -16,6 +16,37 @@ Possibilistic Design is a project-based design seminar that concentrates on how 
 
 Students will research multimedia sensing to conceptualize on alternative ways of observing, measuring, and quantifying the spaces around us. We will question why certain experiences make us feel a certain way, what role our senses play in perception, and how we can implement speculative design, conceptualism, and counterfactualism to powerfully reframe an experience. Several short projects will ask students to push the capacities of sight, touch, hearing, smell, taste, and other interstitial senses. The final term project will be to design, render, and prototype a large scale multisensory tool, wearable, or site-specific installation that augments the ambience of a space or experience.
 
+<br>
+
+#### Key Terms
+
+#### Key Software
+Rhino, V-Ray, Grasshopper, TouchDesigner, InVision, Arduino IDE, Processing
+
+Rhinoceros
+{: .label .label-yellow }
+
+V-Ray
+{: .label .label-yellow }
+
+Grasshopper
+{: .label .label-yellow }
+
+TouchDesigner
+{: .label .label-yellow }
+
+InVision
+{: .label .label-yellow }
+
+Figma
+{: .label .label-yellow }
+
+Arduino IDE
+{: .label .label-yellow }
+
+Processing
+{: .label .label-yellow }
+
 # Logistics
 
 ---
