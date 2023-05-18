@@ -66,13 +66,19 @@ Grasshopper
 TouchDesigner
 {: .label .label-yellow }
 
-InVision Studio
-{: .label .label-yellow }
-
 Figma
 {: .label .label-yellow }
 
+InVision Studio
+{: .label .label-yellow }
+
+Adobe CC
+{: .label .label-yellow }
+
 Arduino IDE
+{: .label .label-yellow }
+
+Tinkercad
 {: .label .label-yellow }
 
 Processing
