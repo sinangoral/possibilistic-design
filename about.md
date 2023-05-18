@@ -18,10 +18,34 @@ Students will research multimedia sensing to conceptualize on alternative ways o
 
 <br>
 
-#### Key Terms
+#### Key Terms and Themes
+
+Critical Design
+{: .label .label-blue }
+
+Speculative Design
+{: .label .label-blue }
+
+Conceptualism
+{: .label .label-blue }
+
+Counterfactualism
+{: .label .label-blue }
+
+Storytelling
+{: .label .label-blue }
+Analog and Digital Sensing
+{: .label .label-blue }
+
+Computation
+{: .label .label-blue }
+
+Rapid Prototyping
+{: .label .label-blue }
+
+<br>
 
 #### Key Software
-Rhino, V-Ray, Grasshopper, TouchDesigner, InVision, Arduino IDE, Processing
 
 Rhinoceros
 {: .label .label-yellow }
