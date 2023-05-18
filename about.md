@@ -90,8 +90,6 @@ Processing
 
 We will use digital technology, conceptualism, and narrative tools to create smart, responsive, and sensitive experiences. Students will operate somewhere at the intersection of new media technologies, critical design, and storytelling.
 
-While the course encourages students to engage with digital and physical fabrication, virtual interfacing, animation, electronic prototyping, and basic programming, such tools are not required and are therefore not emphasized. With the exception of two workshops throughout the semester that will touch on such hard skills, class time will be primarily reserved for design critique, precedent study, and reading discussion. In this way, students are expected to bring their interdisciplinary skillsets and interests to the course (and thereby to their project groups).
-
 Students can expect to:
 
 1. Dive deep into the tenants of critical and speculative design;
@@ -105,6 +103,8 @@ Students can expect to:
 1. Gain exposure to multidisciplinary, seminal texts relating to media technology and design;
 
 1. Think critically about how we sense objects, spaces, and environments
+
+No particular mode of production will be prioritized or expected. While students are encouraged to engage with digital and physical fabrication, electronics design, animation, and basic programming, technical skills are not a prerequisite. With the exception of a few workshops throughout the semester that will touch on such hard skills, class time will be primarily reserved for design critique, precedent study, and reading discussion. Ultimately, students are expected to leverage their interdisciplinary skillsets and tailor the course to their individual interests.
 
 # Logistics
 
