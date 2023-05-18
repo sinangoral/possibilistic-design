@@ -2,8 +2,11 @@
 /* Restyles the chips and tags */ 
 
 .label, .label-blue, .label-yellow {
+    margin-bottom: 0px;
+    padding: 0.16em 0.76em;
     margin-right: 0.25rem;
     margin-left: 0.0rem;
+    text-transform: none;
 }
 
 /* Hides the stamp in the footer */ 
