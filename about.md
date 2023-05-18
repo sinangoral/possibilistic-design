@@ -84,6 +84,28 @@ Tinkercad
 Processing
 {: .label .label-yellow }
 
+# Objectives
+
+---
+
+We will use digital technology, conceptualism, and narrative tools to create smart, responsive, and sensitive experiences. Students will operate somewhere at the intersection of new media technologies, critical design, and storytelling.
+
+While the course encourages students to engage with digital and physical fabrication, virtual interfacing, animation, electronic prototyping, and basic programming, such tools are not required and are therefore not emphasized. With the exception of two workshops throughout the semester that will touch on such hard skills, class time will be primarily reserved for design critique, precedent study, and reading discussion. In this way, students are expected to bring their interdisciplinary skillsets and interests to the course (and thereby to their project groups).
+
+Students can expect to:
+
+1. Dive deep into the tenants of critical and speculative design;
+
+1. Develop preliminary hard skills in visual programming workflows, visual design, electronics prototyping, and basic programming;
+
+1. Understand how to network between physical and virtual media (i.e, interfacing with prototyped electronics through Grasshopper in real-time);
+
+1. Design, prototype, and document fully-functional, interactive, and data-driven objects and installations;
+
+1. Gain exposure to multidisciplinary, seminal texts relating to media technology and design;
+
+1. Think critically about how we sense objects, spaces, and environments
+
 # Logistics
 
 ---
