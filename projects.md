@@ -23,11 +23,11 @@ Through four projects (P_XX), you will build prototypes of objects, spaces, or i
 | P_FINAL         | --             | --                   | 3.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
 
 
-| P_01            | Sight > Perspectival frame   | 2.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_02            | Touch > Push button          | 2.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_03            | Hearing > Wearable object    | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_04            | Taste > Dining experience    | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_FINAL         | -- > --                      | 3.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| P_01            | Sight <br> Perspectival frame   | 2.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| P_02            | Touch <br> Push button          | 2.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| P_03            | Hearing <br> Wearable object    | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| P_04            | Taste <br> Dining experience    | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| P_FINAL         | -- <br> --                      | 3.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
 
 {: .important-title }
 > Project Submission
