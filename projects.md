@@ -18,11 +18,11 @@ Although each project will likely take on various forms, you will still need to 
 
 ---
 
-| P_01            | Sight          | Perspectival frame   | 2.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_02            | Touch          | Push button          | 2.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_03            | Hearing        | Wearable object      | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_04            | Taste          | Dining experience    | 3.0 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
-| P_FINAL         | --             | --                   | 3.5 weeks      | <span class="fs-3">[Project Brief](http://example.com/){: .btn target="_blank" }</span>&nbsp;
+| <span class="fs-3">[P_01: Sight](http://example.com/){: .btn target="_blank" }</span>&nbsp;          | Perspectival frame   | 2.0 weeks
+| <span class="fs-3">[P_02: Touch](http://example.com/){: .btn target="_blank" }</span>&nbsp;          | Push button          | 2.5 weeks
+| <span class="fs-3">[P_03: Hearing](http://example.com/){: .btn target="_blank" }</span>&nbsp;        | Wearable object      | 3.0 weeks
+| <span class="fs-3">[P_04: Taste](http://example.com/){: .btn target="_blank" }</span>&nbsp;          | Dining experience    | 3.0 weeks      
+| <span class="fs-3">[P_FINAL: Wildcard](http://example.com/){: .btn target="_blank" }</span>&nbsp;    | --                   | 3.5 weeks     
 
 {: .important-title }
 > Project Submission
