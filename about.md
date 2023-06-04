@@ -111,7 +111,7 @@ No particular mode of production will be prioritized or expected. While students
 ---
 
 | Course                   | 48-734 • Possibilistic Design • Fall 2023<br> 9.0 Credits
-| Quick Links              | <span class="fs-3">[Schedule](http://example.com/){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Reading Groups](http://example.com/){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Project Groups](http://example.com/){: .btn target="_blank" }</span>
+| Quick Links              | <span class="fs-3">[Schedule](https://docs.google.com/document/d/18mLWpAkRPAgO3fUGl6AzTMTKZ3mgLPnW0Sc9Mb4UNN4/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Reading Groups](https://docs.google.com/document/d/1zN2RuO-hzTR3Lg2aNdcWeaHWIUo0kZ0Osisj_Fy4-dw/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp; <span class="fs-3">[Project Groups](https://docs.google.com/spreadsheets/d/1841wCz0NHIqOOjlXmMgeQ4KbKTN-_YIEtmV9T7RQbeI/edit?usp=sharing){: .btn target="_blank" }</span>
 | Schedule                 | Tuesdays, Thursdays<br> 7:00p-8:20p EST
 | Location                 | [Physical Computing Lab (HL A10) ↗](https://goo.gl/maps/w7RohwDqXdxzamZN8){: a target="_blank"} <br> Carnegie Mellon University
 | Instructor               | Sinan Goral<br> sgoral@cmu.edu<br> (763) 656-8124
