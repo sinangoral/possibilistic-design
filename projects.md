@@ -18,7 +18,7 @@ Although each project will likely take on various forms, you will still need to 
 
 ---
 
-| <span class="fs-3">[P_01](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;          | Sight • Perspectival frame      | 2.0 weeks
+| <span class="fs-3">[P_01](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;          | Sight • Perspectival frame      | 2.0 weeks <br> Due Sep 30 .text-red-200 <span style="color:blue">some *blue* text</span>.
 | <span class="fs-3">[P_02](https://docs.google.com/document/d/1kj1JbKdhNyWyfmPV-c_RCTf5qgVhrMwm00s02kmC3Xw/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;          | Touch • Push button             | 2.5 weeks
 | <span class="fs-3">[P_03](https://docs.google.com/document/d/1ZK4TVnBtss6j6fXJtB2cBmbKl-eN6PVYUsRk5hpuCjA/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;          | Hearing • Wearable object       | 3.0 weeks
 | <span class="fs-3">[P_04](https://docs.google.com/document/d/1XhZ9f864o4MIy2OmHwTNPr8W0oUvMU24D8d_ZjG9Ufc/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;          | Taste • Dining experience       | 3.0 weeks      
