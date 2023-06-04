@@ -18,7 +18,12 @@ Although each project will likely take on various forms, you will still need to 
 
 ---
 
-| P_01          | Sight <br> Perspectival frame <br> 2.0 weeks       | <span class="fs-3">[Project Brief](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;
+| [P_01: Sight ↗](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: a target="_blank"} <br>      | Perspectival frame <br> 2.0 weeks
+| [P_02: Touch ↗](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: a target="_blank"} <br>      | Push button frame <br> 2.5 weeks
+| [P_01: Hearing ↗](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: a target="_blank"} <br>    | Wearable object frame <br> 3.0 weeks
+| [P_01: Taste ↗](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: a target="_blank"} <br>      | Dining object frame <br> 3.0 weeks
+| [P_01: Synthesis ↗](https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing){: a target="_blank"} <br>  | Wildcard <br> 3.5 weeks
+
 | P_02          | Touch <br> Push button <br> 2.5 weeks              | <span class="fs-3">[Project Brief](https://docs.google.com/document/d/1kj1JbKdhNyWyfmPV-c_RCTf5qgVhrMwm00s02kmC3Xw/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;
 | P_03          | Hearing <br> Wearable object <br> 3.0 weeks        | <span class="fs-3">[Project Brief](https://docs.google.com/document/d/1ZK4TVnBtss6j6fXJtB2cBmbKl-eN6PVYUsRk5hpuCjA/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp;
 | P_04          | Taste <br> Dining experience <br> 3.0 weeks        | <span class="fs-3">[Project Brief](https://docs.google.com/document/d/1XhZ9f864o4MIy2OmHwTNPr8W0oUvMU24D8d_ZjG9Ufc/edit?usp=sharing){: .btn target="_blank" }</span>&nbsp; 
