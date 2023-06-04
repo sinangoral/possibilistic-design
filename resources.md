@@ -71,4 +71,4 @@ In addition to the skills posted above, you are encouraged to familiarize yourse
 
 | SoA FabLab                              | [Equipment, Materials, & Reservations](https://soa.cmu.edu/dfab/){: a target="_blank"}                         
 | CMU Software                            | [Catalog of Downloadable Software](https://www.cmu.edu/computing/software/){: a target="_blank"}
-| COVID-19                                | [University Updates](https://www.cmu.edu/coronavirus/index.html/){: a target="_blank"}
+| COVID-19                                | [University Updates](https://www.cmu.edu/coronavirus/){: a target="_blank"}
