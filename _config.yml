@@ -17,6 +17,26 @@ color_scheme: nil
 
 # External links in nav area
 nav_external_links:
+  - title: P_01: Sight ↗
+    url: https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing/"target="_blank
+    nav_order: 0
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: P_02: Touch ↗
+    url: https://docs.google.com/document/d/1kj1JbKdhNyWyfmPV-c_RCTf5qgVhrMwm00s02kmC3Xw/edit?usp=sharing/"target="_blank
+    nav_order: 0
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: P_03: Hearing ↗
+    url: https://docs.google.com/document/d/1ZK4TVnBtss6j6fXJtB2cBmbKl-eN6PVYUsRk5hpuCjA/edit?usp=sharing/"target="_blank
+    nav_order: 0
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: P_04: Taste ↗
+    url: https://docs.google.com/document/d/1XhZ9f864o4MIy2OmHwTNPr8W0oUvMU24D8d_ZjG9Ufc/edit?usp=sharing/"target="_blank
+    nav_order: 0
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: P_05: Synthesis ↗
+    url: https://docs.google.com/document/d/1FppNZQ6tqVOpfEbGVWU4NNEBo_60z8QhVUuqmAYYQuk/edit?usp=sharing/"target="_blank
+    nav_order: 0
+    hide_icon: true # set to true to hide the external link icon - defaults to false
   - title: Syllabus ↗
     url: https://docs.google.com/document/d/1_opURQDSe3o2taL5CEC4YmnnKMDwOtx5GGpxhwkYhO8/edit?usp=sharing/"target="_blank
     nav_order: 2
