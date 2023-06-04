@@ -25,7 +25,11 @@ nav_external_links:
     url: https://docs.google.com/document/d/18mLWpAkRPAgO3fUGl6AzTMTKZ3mgLPnW0Sc9Mb4UNN4/edit?usp=sharing/"target="_blank
     nav_order: 3
     hide_icon: true # set to true to hide the external link icon - defaults to false
-
+  - title: P_02: Touch ↗
+    url: https://docs.google.com/document/d/1kj1JbKdhNyWyfmPV-c_RCTf5qgVhrMwm00s02kmC3Xw/edit?usp=sharing/"target="_blank
+    nav_order: 4
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+ 
 # Defining styling for various callouts
 callouts_level: quiet # or loud
 callouts:
