@@ -8,9 +8,9 @@ nav_order: 4
 
 ---
 
-You will engage in four projects (P_XX) throughout the semester, building prototypes of objects, interfaces, or spaces that interrogate each human sense and their role in shaping our environment. A final, cumulative design project (P_FINAL) will synthesize your research interests into a larger scale object or experience. Short assignments (A_XX) will preface each project with precedent research.
+You will engage in four projects (P_XX) throughout the semester, building prototypes of objects, interfaces, and spaces that interrogate each human sense and their role in shaping our environment. A final and cumulative design project (P_FINAL) will synthesize your research interests into a larger scale object or experience. Short assignments (A_XX) will preface each project with precedent research.
 
-Although each project will likely take on various forms, you will still need to clearly communicate your project through at least a PDF submission. Supplmenetal submissions -- such as videos, websites, or other prototypes -- are strongly encouraged to tell your project story effectively and provacatively.
+Although each project will likely take on various forms, you will still need to clearly communicate your project through at least a PDF submission. Supplemental submissions -- such as videos, websites, or other prototypes -- are strongly encouraged to tell your project story convincingly.
 
 <br>
 
@@ -27,4 +27,4 @@ Although each project will likely take on various forms, you will still need to 
 {: .important-title }
 > Project Submission
 >
-> You are expected to upload a PDF link to the Project Groups Sheet for each final review. You will also email your PDF link to me for grading.
+> You are expected to upload a PDF link and other documentation materials to the Project Groups Sheet for each final review. You will also email these links to me for grading.
