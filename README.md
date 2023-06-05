@@ -18,7 +18,7 @@ We will use digital technology, conceptualism, and narrative tools to create sma
 
 Students can expect to:
 
-- Dive deep into the tenants of critical and speculative design;
+- Dive deep into the tenets of critical and speculative design;
 - Develop preliminary hard skills in visual programming workflows, visual design, electronics prototyping, and basic programming;
 - Understand how to network between physical and virtual media (i.e, interfacing with prototyped electronics through Grasshopper in real-time);
 - Design, prototype, and document fully-functional, interactive, and data-driven objects and installations;
