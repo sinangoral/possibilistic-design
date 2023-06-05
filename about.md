@@ -92,7 +92,7 @@ We will use digital technology, conceptualism, and narrative tools to create sma
 
 Students can expect to:
 
-1. Dive deep into the tenants of critical and speculative design;
+1. Dive deep into the tenets of critical and speculative design;
 
 1. Develop preliminary hard skills in visual programming workflows, visual design, electronics prototyping, and basic programming;
 
