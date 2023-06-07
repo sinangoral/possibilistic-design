@@ -8,7 +8,7 @@ The course encourages critical thinking about our perception of objects and spac
 
 ## Links
 
-- [Syllabus](https://docs.google.com/document/d/1_opURQDSe3o2taL5CEC4YmnnKMDwOtx5GGpxhwkYhO8/edit?usp=sharing) (Public)
-- [Schedule](https://docs.google.com/document/d/18mLWpAkRPAgO3fUGl6AzTMTKZ3mgLPnW0Sc9Mb4UNN4/edit?usp=sharing) (Public)
-- [Project Groups](https://docs.google.com/spreadsheets/d/1841wCz0NHIqOOjlXmMgeQ4KbKTN-_YIEtmV9T7RQbeI/edit?usp=sharing) (Restricted)
-- [Reading Groups](https://docs.google.com/spreadsheets/d/1sM2FipufOitiOVhkG3GgUdTwFeOl63T-IOwN6lESIMk/edit?usp=sharing) (Restricted)
+- [Syllabus](https://docs.google.com/document/d/1_opURQDSe3o2taL5CEC4YmnnKMDwOtx5GGpxhwkYhO8/edit?usp=sharing) → 💁 Public Access
+- [Schedule](https://docs.google.com/document/d/18mLWpAkRPAgO3fUGl6AzTMTKZ3mgLPnW0Sc9Mb4UNN4/edit?usp=sharing) → 💁 Public Access
+- [Project Groups](https://docs.google.com/spreadsheets/d/1841wCz0NHIqOOjlXmMgeQ4KbKTN-_YIEtmV9T7RQbeI/edit?usp=sharing) → 🙅 Restricted Privileges
+- [Reading Groups](https://docs.google.com/spreadsheets/d/1sM2FipufOitiOVhkG3GgUdTwFeOl63T-IOwN6lESIMk/edit?usp=sharing) → 🙅 Restricted Privileges
