@@ -4,14 +4,6 @@ nav_order: 2
 layout: default
 ---
 
-# Summary
-
----
-
-Possibilistic Design (PD) is a course that explores the intersection of critical design, speculative design, design production, and storytelling to probe a more responsible and exciting future.
-
-The course encourages critical thinking about our perception of objects and space while offering technical skill development in visual programming, visual design, electronics prototyping, and fabrication. Students will gain the expertise to craft interactive and data-driven objects and installations, while having the freedom to tailor the course to their individual interests and interdisciplinary skillsets.
-
 # Overview
 
 ---
