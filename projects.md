@@ -18,6 +18,8 @@ Although each project will likely take on various forms, you will still need to 
 
 ---
 
+[Overview of Electronic Components](https://learn.adafruit.com/guides/beginner/){: a target="_blank"}
+
 | [P_01: Sight ↗]([https://docs.google.com/document/d/1ADfq7E-jQly_Z0FN6kOgEd0PporadFMn9o6lpuEEB_c/edit?usp=sharing](https://docs.google.com/document/d/15VjzqDmpGq_z_M3umxLjYRkjxQO1gLgZB3FYTS---hg/edit?usp=sharing){: a target="_blank"} <br>         | Perspectival frame      | <span style="color: green">2.0 wks</span>
 | [P_02: Touch ↗]([https://docs.google.com/document/d/1kj1JbKdhNyWyfmPV-c_RCTf5qgVhrMwm00s02kmC3Xw/edit?usp=sharing](https://docs.google.com/document/d/1lj0AX8xuKf4JYOXSNI7eJ2mGQy34YaHhr3rLtsHpxkg/edit?usp=sharing){: a target="_blank"} <br>         | Push button             | <span style="color: green">2.5 wks</span>
 | [P_03: Hearing ↗]([https://docs.google.com/document/d/1ZK4TVnBtss6j6fXJtB2cBmbKl-eN6PVYUsRk5hpuCjA/edit?usp=sharing](https://docs.google.com/document/d/1f-yu5EYlwIuCfESC_mA0apu8nicbkjwFSKVQ-fjgB80/edit?usp=sharing){: a target="_blank"} <br>       | Wearable object         | <span style="color: orange">3.0 wks</span>
