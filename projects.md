@@ -1,4 +1,4 @@
----
+a---
 layout: default
 title: Projects
 nav_order: 4
@@ -27,4 +27,4 @@ Although each project will likely take on various forms, you will still need to 
 {: .important-title }
 > Project Submission
 >
-> You are expected to upload your PDF link and other documentation materials to the [Project Groups]([https://docs.google.com/spreadsheets/d/1841wCz0NHIqOOjlXmMgeQ4KbKTN-_YIEtmV9T7RQbeI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18kqxHrwZKL39GRA9WOp-RburERF-gLCMojU2OqElsao/edit?usp=drive_link){: a target="_blank"} sheet before each final review. Please also email these links to me for grading.
+> You are expected to upload your PDF link and other documentation materials to the [Project Groups](https://docs.google.com/spreadsheets/d/18kqxHrwZKL39GRA9WOp-RburERF-gLCMojU2OqElsao/edit?usp=drive_link){: a target="_blank"} sheet before each final review. Please also email these links to me for grading.
