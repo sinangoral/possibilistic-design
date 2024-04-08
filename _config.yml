@@ -14,11 +14,11 @@ color_scheme: nil
 # External links in nav area
 nav_external_links:
   - title: Syllabus ↗
-    url: https://docs.google.com/document/d/1_opURQDSe3o2taL5CEC4YmnnKMDwOtx5GGpxhwkYhO8/edit?usp=sharing/"target="_blank
+    url: https://docs.google.com/document/d/1Sz5BclN2PcHnZEZRZBskNB2Tb1fvUTuoPNS4wZ6QwCI/edit?usp=drive_link/"target="_blank
     nav_order: 2
     hide_icon: true # set to true to hide the external link icon - defaults to false
   - title: Schedule ↗
-    url: https://docs.google.com/document/d/18mLWpAkRPAgO3fUGl6AzTMTKZ3mgLPnW0Sc9Mb4UNN4/edit?usp=sharing/"target="_blank
+    url: https://docs.google.com/document/d/1GrEQ68dV2t3_zGlAu0imVJ5yQUAcyWHt4ADtgmmQae8/edit?usp=drive_link/"target="_blank
     nav_order: 3
     hide_icon: true # set to true to hide the external link icon - defaults to false
  
@@ -48,10 +48,10 @@ kramdown:
       
 # Footer settings (footer set to appear on all pages except for the index with bubble animation)
 footer_content:
-  48-734 • Possibilistic Design • Fall 2023<br>
+  48-734 • Possibilistic Design • Fall 2024<br>
   <br>
   <a href="https://www.sinangoral.com/" target="_blank">Sinan Goral ↗</a> <br>
   Carnegie Mellon University <br>
   Integrative Design, Arts, and Technology <a href="https://ideate.cmu.edu/index.html" target="_blank">(IDeATe ↗)</a> <br>
   <br>
-  All rights reserved • Copyright &copy; 2023
+  All rights reserved • Copyright &copy; 2024
